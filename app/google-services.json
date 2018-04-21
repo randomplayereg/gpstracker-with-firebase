@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "563796588970",
+    "firebase_url": "https://routefinder-1524120397248.firebaseio.com",
+    "project_id": "routefinder-1524120397248",
+    "storage_bucket": "routefinder-1524120397248.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563796588970:android:fb4a9ea508c90fe2",
+        "android_client_info": {
+          "package_name": "com.randomplayer.edmtdev_tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563796588970-f5qq67ke9bk1fm9io593rmd9v7k4vo1i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.randomplayer.edmtdev_tutorial",
+            "certificate_hash": "ad767858add02b4c40bf73a3dbabca2a7bdadf93"
+          }
+        },
+        {
+          "client_id": "563796588970-nbl6rgmqap9t36g1ecmt9ggkcvr74v95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsn94-U8mzCy5tjsz0PJmg88a2shnbT50"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563796588970-nbl6rgmqap9t36g1ecmt9ggkcvr74v95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
